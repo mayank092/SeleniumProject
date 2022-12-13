@@ -11,6 +11,9 @@ import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.*;
 
+/* Exercise to book OneTrip flight on makeMyTrip with 2 Adults, 2 Children and 1 Infant and taking it to the payment page and printing 
+second highest Price on console.*/
+
 public class Exercise1 {
 
     ChromeDriver driver;
